@@ -2,7 +2,7 @@ package practical;
 //Java program to implement Playfair Cipher
 import java.util.*;
 
-public class Solution
+public class SolutionJNJNJNKJVGHDRYT 
 {
 static int SIZE = 30;
 
@@ -16,7 +16,7 @@ static void toLowerCase(char plain[], int ps)
 	}
 }
 
-//Function to remove all spaces in a string
+//Function to remove all spaces in a HHBKHBKBHVGJVBNMJIKMMK;string
 static int removeSpaces(char[] plain, int ps)
 {
 	int i, count = 0;
